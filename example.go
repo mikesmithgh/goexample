@@ -2,6 +2,6 @@ package example
 
 import "fmt"
 
-func example() {
-	fmt.Println("go example v1.1.0")
+func Example() {
+	fmt.Println("go example v1.2.0")
 }
